@@ -1,6 +1,6 @@
-# 🌬️ Particle Sampler ALS - LOWVOL BGI PQ200 Replica
+# 🌬️ Particle Sampler - LOWVOL BGI PQ200 Replica
 
-This project was developed for **ALS** and consists of a custom board that replicates the functions of the **LOWVOL-BGI PQ200 particle sampler**.  
+This project was developed for **ROMOBOA** and consists of a custom board that replicates the functions of the **LOWVOL-BGI PQ200 particle sampler**.  
 The system was designed to reproduce the same sampling actions, control logic, and measurement processes used in professional air quality monitoring equipment.
 
 ---
@@ -70,4 +70,6 @@ Refer to the `docs/` folder for schematics and technical notes.
 ---
 
 ## 📄 License
-MIT License
+This repository contains proprietary code and documentation.  
+Unauthorized use, distribution, or modification is strictly prohibited.
+
