@@ -1,0 +1,55 @@
+# =========================
+# General
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# IDE / Editor settings
+# =========================
+.vscode/
+.idea/
+.settings/
+*.suo
+*.user
+*.db
+
+# =========================
+# STM32 / Keil uVision
+# =========================
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.lst
+*.axf
+*.uvprojx
+*.uvoptx
+
+# Exclude proprietary firmware folder
+firmware/codigo_uvision_V1.0/
+
+# =========================
+# Python (if used in backend)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Node.js (if backend uses JS)
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
